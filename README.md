@@ -21,14 +21,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Check out my latest article on Medium
+## Check out my latest articles on Medium
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0" alt="Recent Article 0">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Socials
+## Connect with me!
 
 <p align="center">
   <a href="https://twitter.com/benthecoder1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="mailto:benthecoder07@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@benthecoder07"><img src="https://img.icons8.com/ios-filled/100/000000/medium-monogram.png" alt="medium"/></a>
 </p>
