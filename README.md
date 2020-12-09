@@ -2,17 +2,15 @@
 
 <p align="center">
   <a href="https://medium.com/@benthecoder07">Blog</a> •
-  <a href="https://twitter.com/benthecoder1">Twitter</a> 
-  <a href="https://www.linkedin.com/in/benedictneo">Linkedin</a>
+  <a href="https://twitter.com/benthecoder1">Twitter</a> •
+  <a href="https://www.linkedin.com/in/benedictneo">Linkedin</a> •
   <a href="mailto:benthecoder07@gmail.com">Gmail</a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/
-ghpvc/?username=benthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="benthecoder" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{benthecoder}/count.svg)
 
-<h4 align="center">A passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts that inspire and educate others.</h3>
+<h3 align="center">A passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.</h3>
 
 - 🌱 I'm currently learning R, Python and Statistics 
 
@@ -21,14 +19,6 @@ ghpvc/?username=benthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="
 - 👨‍💻 All of my projects are available at [benthecoder.github.io](https://benthecoder.github.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
-
----
-
-## Stats
-
-[![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -43,3 +33,11 @@ ghpvc/?username=benthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more blog posts...](https://medium.com/@benthecoder07)
+
+---
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
