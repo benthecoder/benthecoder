@@ -30,6 +30,8 @@
 - [“The combination of some data and an aching desire for an answer does not ensure the a reasonable…](https://medium.com/@benthecoder07/the-combination-of-some-data-and-an-aching-desire-for-an-answer-does-not-ensure-the-a-reasonable-e79ce2c5a78b?source=rss-9a24cc840494------2)
 - [Big Data: Its Benefits, Challenges, and Future](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927?source=rss-9a24cc840494------2)
 - [The purpose of statistics isn’t to tell us what to believe, but to tell us what to do.](https://medium.com/@benthecoder07/the-purpose-of-statistics-isnt-to-tell-us-what-to-believe-but-to-tell-us-what-to-do-63e5fd598e5c?source=rss-9a24cc840494------2)
+- [What is a P-value?](https://towardsdatascience.com/what-is-a-p-value-2cd0b1898e6f?source=rss-9a24cc840494------2)
+- [Experimental Design in Data Science](https://towardsdatascience.com/designing-experiments-in-data-science-23360d2ddf84?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@benthecoder07)
