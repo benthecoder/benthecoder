@@ -7,7 +7,11 @@
   <a href="mailto:benthecoder07@gmail.com">Gmail</a>
 </p>
 
-<h3 align="center">A passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.</h3>
+<p align="center"> 
+	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
+</p>
+
+### I'm passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
 
 - 🌱 I'm currently learning R, Python and Statistics 
 
@@ -28,19 +32,21 @@
 - [The purpose of statistics isn’t to tell us what to believe, but to tell us what to do.](https://medium.com/@benthecoder07/the-purpose-of-statistics-isnt-to-tell-us-what-to-believe-but-to-tell-us-what-to-do-63e5fd598e5c?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
-↳ [more blog posts...](https://medium.com/@benthecoder07)
+↳ [more articles...](https://medium.com/@benthecoder07)
 
 
 ## Stats
 
-<p align="center"> 
-	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
-</p>
+<details>
+  <summary>:zap: Language Stats</summary>
 
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" alt="Language stats" /> 
-</p>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
 
-<!--
-[![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
---> 
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
+
+</details>
