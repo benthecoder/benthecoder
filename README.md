@@ -14,5 +14,3 @@ I'm Benedict Neo, I'm an undergraduate student majoring in Statistics. I'm self-
 ## Check out my latest article on Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0" alt="Recent Article 0">
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
