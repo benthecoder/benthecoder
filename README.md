@@ -40,8 +40,8 @@
 <details>
   <summary>:zap: GitHub and Language Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
 
 </details>
