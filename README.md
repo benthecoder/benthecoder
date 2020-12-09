@@ -17,7 +17,6 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
----
 
 ## Check out my latest articles
 
@@ -31,12 +30,14 @@
 
 ↳ [more blog posts...](https://medium.com/@benthecoder07)
 
----
 
 ## Stats
 
 <p align="center"> 
 	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
+</p>
+
+<p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" alt="Language stats" /> 
 </p>
 
