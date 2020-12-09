@@ -7,9 +7,6 @@
   <a href="mailto:benthecoder07@gmail.com">Gmail</a>
 </p>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> </p>
-
-
 <h3 align="center">A passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.</h3>
 
 - 🌱 I'm currently learning R, Python and Statistics 
@@ -38,6 +35,11 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" alt="Language stats" /> 
+</p>
 
+<!--
 [![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+--> 
