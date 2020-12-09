@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Benedict Neo</h1>
 
 <p align="center">
-  <a href="https://medium.com/@benthecoder07">Blog</a> •
-  <a href="https://twitter.com/benthecoder1">Twitter</a> •
-  <a href="https://www.linkedin.com/in/benedictneo">Linkedin</a> •
-  <a href="mailto:benthecoder07@gmail.com">Gmail</a>
+  <a href="https://medium.com/@benthecoder07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/benthecoder1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:benthecoder07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"> 
