@@ -23,6 +23,11 @@
 ## Check out my latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [“Controlling complexity is the essence of computer programming.” -Brian Kernighan](https://medium.com/@benthecoder07/controlling-complexity-is-the-essence-of-computer-programming-brian-kernighan-fc6647af998a?source=rss-9a24cc840494------2)
+- [Everything you need to Learn Python from Zero to Hero](https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c?source=rss-9a24cc840494------2)
+- [“The combination of some data and an aching desire for an answer does not ensure the a reasonable…](https://medium.com/@benthecoder07/the-combination-of-some-data-and-an-aching-desire-for-an-answer-does-not-ensure-the-a-reasonable-e79ce2c5a78b?source=rss-9a24cc840494------2)
+- [Big Data: Its Benefits, Challenges, and Future](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927?source=rss-9a24cc840494------2)
+- [The purpose of statistics isn’t to tell us what to believe, but to tell us what to do.](https://medium.com/@benthecoder07/the-purpose-of-statistics-isnt-to-tell-us-what-to-believe-but-to-tell-us-what-to-do-63e5fd598e5c?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
