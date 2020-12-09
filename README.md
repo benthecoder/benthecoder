@@ -1,6 +1,19 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Benedict Neo</h1>
+<h3 align="center">A passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts that inspire and educate others.</h3>
 
-I'm Benedict Neo, I'm an undergraduate student majoring in Statistics. I'm self-learning R and Python and I love reading books. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="benthecoder" /> </p>
+
+<p align="left"> <a href="https://twitter.com/benthecoder1" target="blank"><img src="https://img.shields.io/twitter/follow/benthecoder1?logo=twitter&style=for-the-badge" alt="benthecoder1" /></a> </p>
+
+- 💻 I’m currently taking the course Data Science Specialization by JHU on Coursera
+
+- 👨‍💻 All of my projects are available at [benthecoder.github.io](benthecoder.github.io)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
+
+- 💬 Ask me about **R and Python**
+
+- 📫 How to reach me **benthecoder07@gmail.com**
 
 ## Stats
 
@@ -11,3 +24,11 @@ I'm Benedict Neo, I'm an undergraduate student majoring in Statistics. I'm self-
 ## Check out my latest article on Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@benthecoder07/0" alt="Recent Article 0">
+
+## Socials
+
+<p align="center">
+  <a href="https://twitter.com/benthecoder1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@benthecoder07"><img src="https://img.icons8.com/ios-filled/100/000000/medium-monogram.png" alt="medium"/></a>
+</p>
