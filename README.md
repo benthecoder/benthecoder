@@ -7,7 +7,7 @@
 
 - 💻 I’m currently taking the course Data Science Specialization by JHU on Coursera
 
-- 👨‍💻 All of my projects are available at [benthecoder.github.io](benthecoder.github.io)
+- 👨‍💻 All of my projects are available at [benthecoder.github.io](https://benthecoder.github.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
