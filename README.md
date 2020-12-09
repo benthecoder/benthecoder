@@ -37,11 +37,18 @@
 
 ## Stats
 
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)
+
+
+<!--
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub and Language Stats</summary>
 
-  <img align="center" alt="benthecoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
+  <img align="left" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
 
-  <img align="center" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
-  
+  <img align="left" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
+
 </details>
+
+![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)
+--> 
