@@ -4,6 +4,8 @@
   <a href="https://medium.com/@benthecoder07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://twitter.com/benthecoder1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/benthecoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/benthecoder"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:benthecoder07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -13,16 +15,17 @@
 
 ### I'm passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
 
-- 🌱 I'm currently learning R, Python and Statistics 
+- 🌱 I'm currently learning Statistics and Machine Learning 
 
-- 💻 I’m currently taking the Data Science Specialization by JHU on Coursera
+- 💻 I’m taking the Data Science Specialization by JHU on Coursera
 
 - 👨‍💻 All of my projects are available at [benthecoder.github.io](https://benthecoder.github.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
 
-## Check out my latest articles
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [“Controlling complexity is the essence of computer programming.” -Brian Kernighan](https://medium.com/@benthecoder07/controlling-complexity-is-the-essence-of-computer-programming-brian-kernighan-fc6647af998a?source=rss-9a24cc840494------2)
@@ -39,7 +42,7 @@
 
 ## Stats
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 
 <!--
@@ -53,4 +56,12 @@
 </details>
 
 ![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)
---> 
+
+Resources
+Icons: https://simpleicons.org/
+GitHub Stats: https://github.com/anuraghazra/github-readme-stats 
+Emojis: https://emojipedia.org/emoji/
+HTML Emojis: https://www.fileformat.info/index.htm 
+Shields: https://shields.io/ 
+Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+-->
