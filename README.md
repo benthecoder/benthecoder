@@ -16,11 +16,15 @@
 
 ### I'm passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
 
-- 🌱 I'm currently learning Statistics and Machine Learning 
+- 🌱 I'm currently learning Statistics and Machine Learning.
 
-- 💻 I’m taking the Data Science Specialization by JHU on Coursera
+- 💻 Courses I'm currently taking on Coursera 
 
-- 👨‍💻 All of my projects are available at [benthecoder.github.io](https://benthecoder.github.io)
+	- Data Science Specialization by John Hopkins University
+	- Statistics with R Specialization by Duke University
+	- Mathematics for Machine Learning by Imperial College London
+
+- 👨‍💻 Check out my portfolio -> [benthecoder.github.io](https://benthecoder.github.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
@@ -40,6 +44,12 @@
 
 ↳ [more articles...](https://medium.com/@benthecoder07)
 
+## Blogs I like to read
+* [hackernews](https://news.ycombinator.com)
+* [freecodecamp news](https://www.freecodecamp.org/news/)
+* [hackernoon](https://hackernoon.com)
+* [clean coder](https://blog.cleancoder.com)
+* [dev.to](https://dev.to/t/news)
 
 ## Stats
 
