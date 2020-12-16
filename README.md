@@ -29,7 +29,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Training Neural Networks on Smartphones](https://towardsdatascience.com/training-neural-networks-on-smartphones-9d063a37be34?source=rss-9a24cc840494------2)
+- [The Future of Deep Learning on Tiny 4-Bit Computers.](https://towardsdatascience.com/training-neural-networks-on-smartphones-9d063a37be34?source=rss-9a24cc840494------2)
 - [What is Tidy Data?](https://towardsdatascience.com/what-is-tidy-data-d58bb9ad2458?source=rss-9a24cc840494------2)
 - [Everything you need to Learn Python from Zero to Hero](https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c?source=rss-9a24cc840494------2)
 - [Big Data: Its Benefits, Challenges, and Future](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927?source=rss-9a24cc840494------2)
