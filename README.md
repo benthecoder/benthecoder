@@ -40,7 +40,6 @@
 - [Big Data: Its Benefits, Challenges, and Future](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927?source=rss-9a24cc840494------2)
 - [What is a P-value?](https://towardsdatascience.com/what-is-a-p-value-2cd0b1898e6f?source=rss-9a24cc840494------2)
 - [Experimental Design in Data Science](https://towardsdatascience.com/designing-experiments-in-data-science-23360d2ddf84?source=rss-9a24cc840494------2)
-- [The Six Types of Data Analysis](https://towardsdatascience.com/the-six-types-of-data-analysis-75517ba7ea61?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@benthecoder07)
