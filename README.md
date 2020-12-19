@@ -25,7 +25,7 @@
 	- Statistics with R Specialization by Duke University
 	- Mathematics for Machine Learning by Imperial College London
 
-- 👨‍💻 Check out my portfolio -> [benthecoder.github.io](https://benthecoder.github.io)
+- 👨‍💻 Check out my portfolio -> [https://benedictxneo.rbind.io](https://benedictxneo.rbind.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
