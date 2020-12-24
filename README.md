@@ -39,7 +39,6 @@
 - [Everything You Need to Learn R for Data Science](https://medium.com/better-programming/everything-you-need-to-learn-r-for-data-science-ea0b169cc410?source=rss-9a24cc840494------2)
 - [The Future of Deep Learning on Tiny 4-Bit Computers.](https://towardsdatascience.com/training-neural-networks-on-smartphones-9d063a37be34?source=rss-9a24cc840494------2)
 - [What is Tidy Data?](https://towardsdatascience.com/what-is-tidy-data-d58bb9ad2458?source=rss-9a24cc840494------2)
-- [Everything you need to Learn Python from Zero to Hero](https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@benthecoder07)
