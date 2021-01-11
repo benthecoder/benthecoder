@@ -25,6 +25,8 @@
 	- Statistics with R Specialization by Duke University
 	- Mathematics for Machine Learning by Imperial College London
 
+- Currently particpating in MLH Hackathon 2021!
+
 - 👨‍💻 Check out my portfolio -> [benedictxneo.rbind.io](https://benedictxneo.rbind.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
