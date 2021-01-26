@@ -27,7 +27,7 @@
 
 - Currently particpating in MLH Hackathon 2021!
 
-- 👨‍💻 Check out my portfolio -> [benedictxneo.rbind.io](https://benedictxneo.rbind.io)
+- 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
 
@@ -51,6 +51,7 @@
 * [hackernoon](https://hackernoon.com)
 * [clean coder](https://blog.cleancoder.com)
 * [dev.to](https://dev.to/t/news)
+* [ML-blogs-worth-reading](https://benthecoder.github.io/ml-blogs-that-are-worth-reading/)
 
 ## Stats
 
