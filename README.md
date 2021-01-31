@@ -15,7 +15,7 @@
 	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
 </p>
 
-### I'm passionate Statistics undergrad student self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
+### I'm passionate Statistics undergrad student at Iowa State University self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
 
 - 🌱 I'm currently learning Statistics and Machine Learning.
 
@@ -24,8 +24,6 @@
 	- Data Science Specialization by John Hopkins University
 	- Statistics with R Specialization by Duke University
 	- Mathematics for Machine Learning by Imperial College London
-
-- Currently particpating in MLH Hackathon 2021!
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
