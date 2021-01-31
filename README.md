@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://medium.com/@benthecoder07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://dev.to/benthecoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://hackernoon.com/u/benthecoder"><img src="https://img.shields.io/badge/hackernoon-33FF33?style=for-the-badge&logo=hackernoon" /></a>
+  <a href="https://hackernoon.com/u/benthecoder"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
   <a href="https://twitter.com/benthecoder1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://rpubs.com/benthecoder"><img src="https://img.shields.io/badge/rpubs-3687C7?style=for-the-badge&logo=R&logoColor=white" /></a>
