@@ -43,12 +43,12 @@
 
 ↳ [more articles...](https://medium.com/@benthecoder07)
 
-## Blogs I like to read
+## My go-to sites 
 * [hackernews](https://news.ycombinator.com)
-* [freecodecamp news](https://www.freecodecamp.org/news/)
+* [Lobsters](https://lobste.rs)
 * [hackernoon](https://hackernoon.com)
-* [clean coder](https://blog.cleancoder.com)
-* [dev.to](https://dev.to/t/news)
+* [Ruqqus](https://ruqqus.com)
+* [Panda](https://app.usepanda.com/#/)
 * [ML-blogs-worth-reading](https://benthecoder.github.io/ml-blogs-that-are-worth-reading/)
 
 ## Stats
