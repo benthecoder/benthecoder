@@ -57,17 +57,22 @@
 
 ## Stats
 
+<img align="left" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
+
+<img align="right" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
+
+<!--
+
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE)
 
 ![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE)
 
-<!--
 <details>
   <summary>:zap: GitHub and Language Stats</summary>
 
   <img align="left" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
 
-  <img align="left" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
+  <img align="right" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
 
 </details>
 
