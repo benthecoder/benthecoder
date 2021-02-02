@@ -27,8 +27,10 @@
 	
 - 📚 Books I'm reading
 
-	- [An Introduction to Statistical Learning: With Applications in R](tinyurl.com/islr-book-pdf)
-	- [Mathematics for Machine Learning](tinyurl.com/math4ml)
+	- [An Introduction to Statistical Learning: With Applications in R](https://www.tinyurl.com/islr-book-pdf)
+	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
+	- Data Science from Scratch
+	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
