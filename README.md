@@ -21,9 +21,13 @@
 
 - 💻 Courses I'm currently taking on Coursera 
 
-	- Data Science Specialization by John Hopkins University
-	- Statistics with R Specialization by Duke University
-	- Mathematics for Machine Learning by Imperial College London
+	- [Data Science Specialization by John Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
+	- [Statistics with R Specialization by Duke University](https://www.coursera.org/specializations/statistics)
+	- [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
+	
+- 📚 Books I'm reading
+	- [An Introduction to Statistical Learning: With Applications in R](tinyurl.com/islr-book-pdf)
+	- [Mathematics for Machine Learning](tinyurl.com/math4ml)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
