@@ -55,7 +55,7 @@
 * [Lobsters](https://lobste.rs)
 * [hackernoon](https://hackernoon.com)
 * [Ruqqus](https://ruqqus.com)
-* [Panda](https://app.usepanda.com/#/)
+* [Feedly](https://feedly.com)
 * [ML-blogs-worth-reading](https://benthecoder.github.io/ml-blogs-that-are-worth-reading/)
 
 ## Stats
