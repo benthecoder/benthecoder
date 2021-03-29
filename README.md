@@ -34,7 +34,7 @@
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@benthecoder07)
+- 📝 I regularly write articles on [Medium](https://benedictxneo.medium.com/)
 
 
 
