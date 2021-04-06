@@ -29,7 +29,7 @@
 
 	- [An Introduction to Statistical Learning: With Applications in R](https://www.tinyurl.com/islr-book-pdf)
 	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
-	- Data Science from Scratch
+	- [Designing Data-Intensive Applications](https://github.com/jeffrey-xiao/papers/raw/master/textbooks/designing-data-intensive-applications.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
