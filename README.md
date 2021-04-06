@@ -48,7 +48,7 @@
 - [Everything You Need to Learn R for Data Science](https://betterprogramming.pub/everything-you-need-to-learn-r-for-data-science-ea0b169cc410?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
-↳ [more articles...](https://medium.com/@benthecoder07)
+↳ [more articles...](https://benedictxneo.medium.com/)
 
 ## My go-to sites 
 * [hackernews](https://news.ycombinator.com)
