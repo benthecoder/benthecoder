@@ -29,7 +29,8 @@
 
 	- [An Introduction to Statistical Learning: With Applications in R](https://www.tinyurl.com/islr-book-pdf)
 	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
-	- [Designing Data-Intensive Applications](https://github.com/jeffrey-xiao/papers/raw/master/textbooks/designing-data-intensive-applications.pdf)
+	- [Designing Data-Intensive Applications](https://tinyurl.com/yfpzqey9)
+	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
