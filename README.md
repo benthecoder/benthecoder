@@ -42,6 +42,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All my articles in one place](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d?source=rss-9a24cc840494------2)
 - [Building an Image Classification model with PyTorch from scratch](https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212?source=rss-9a24cc840494------2)
 - [Top 5 Machine Learning Algorithms Explained](https://medium.com/bitgrit-data-science-publication/top-5-machine-learning-algorithms-explained-d15234b627f7?source=rss-9a24cc840494------2)
 - [Building an XGBoost Model to Predict Video Popularity](https://medium.com/bitgrit-data-science-publication/building-an-xgboost-model-to-predict-video-popularity-ce4a39a356d7?source=rss-9a24cc840494------2)
