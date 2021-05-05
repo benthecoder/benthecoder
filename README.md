@@ -52,29 +52,64 @@
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
 
-## My go-to sites 
-* [hackernews](https://news.ycombinator.com)
-* [Lobsters](https://lobste.rs)
-* [hackernoon](https://hackernoon.com)
-* [Ruqqus](https://ruqqus.com)
-* [Feedly](https://feedly.com)
-* [ML-blogs-worth-reading](https://benthecoder.github.io/ml-blogs-that-are-worth-reading/)
+
+## Languages and Tools
+
+<p>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23007396.svg?logo=r&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-f89820.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+<p>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/rstudio-4d8dc9.svg?logo=rstudio&logoColor=white"></a>
+</p>
+
+
 
 ## Stats
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE)
+<details>	
+  <summary><b>Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+</details>
 
-![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE)
+<details>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benthecoder&hide_border=true" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>My Setup</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOs 11.3.1</li>
+	    <li><b>Laptop: </b> Macbook Air M1 2020 </li>
+  	    <li><b>Browser: </b> Brave Browser</li>
+	    <li><b>Terminal: </b> Iterm + Oh My Zsh</li>
+	    <li><b>Code Editor:</b> VSCode, Sublime Text, RStudio </li>
+	    <br />
+	</ul>	
+</details>
 
 <!--
-<details>
-  <summary>:zap: GitHub and Language Stats</summary>
 
-  <img align="left" alt="Benedict's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact" />
-
-  <img align="right" alt="Benedict's github stats" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false" />
-
-</details>
+Source: https://github.com/iampavangandhi/iampavangandhi/blob/master/README.md
 
 Resources
 Icons: https://simpleicons.org/
