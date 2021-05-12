@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benedict Neo</h1>
+<h1 align="center">Hi <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">, I'm Benedict Neo</h1>
 
 <p align="center">
   <a href="https://benedictxneo.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
