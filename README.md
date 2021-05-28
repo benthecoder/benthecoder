@@ -28,11 +28,11 @@
 - 📚 Books I'm reading
 
 	- [An Introduction to Statistical Learning: With Applications in R](https://www.tinyurl.com/islr-book-pdf)
+	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
-	- [Designing Data-Intensive Applications](https://tinyurl.com/yfpzqey9)
+	- [Designing Data-Intensive Applications](https://benthecoder.github.io/Designing-Data-Intensive-Applications/docs/Designing-Data-Intensive-Applications.pdf)
 	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
