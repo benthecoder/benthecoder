@@ -43,6 +43,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Computer Vision Trends for 2021](https://medium.com/bitgrit-data-science-publication/5-computer-vision-trends-for-2021-96fd18d5596c?source=rss-9a24cc840494------2)
 - [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-9a24cc840494------2)
 - [Data Cleaning with Python](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45?source=rss-9a24cc840494------2)
 - [All my articles in one place](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d?source=rss-9a24cc840494------2)
