@@ -27,7 +27,7 @@
 	
 - 📚 Books I'm reading
 
-	- [An Introduction to Statistical Learning: With Applications in R](https://www.tinyurl.com/islr-book-pdf)
+	- [An Introduction to Statistical Learning: With Applications in R](https://tinyurl.com/yebj9wsb)
 	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
 	- [Designing Data-Intensive Applications](https://benthecoder.github.io/Designing-Data-Intensive-Applications/docs/Designing-Data-Intensive-Applications.pdf)
