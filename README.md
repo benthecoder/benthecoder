@@ -25,15 +25,16 @@
 	- [Statistics with R Specialization by Duke University](https://www.coursera.org/specializations/statistics)
 	- [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	
-- 📚 Books I'm reading
+- 📚 Books I'm currently reading 
 
 	- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
-	- [An Introduction to Statistical Learning: With Applications in R](https://tinyurl.com/yebj9wsb)
+	- [ISLR](https://tinyurl.com/yebj9wsb)
+	- [Math for Machine Learning](https://www.tinyurl.com/math4ml)
 	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
-	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
 	- [Designing Data-Intensive Applications](https://benthecoder.github.io/Designing-Data-Intensive-Applications/docs/Designing-Data-Intensive-Applications.pdf)
 	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+	- [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
