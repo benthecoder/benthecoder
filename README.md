@@ -45,6 +45,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Data Science to Predict Viral Tweets](https://towardsdatascience.com/using-data-science-to-predict-viral-tweets-615b0acc2e1e?source=rss-9a24cc840494------2)
 - [5 Computer Vision Trends for 2021](https://medium.com/bitgrit-data-science-publication/5-computer-vision-trends-for-2021-96fd18d5596c?source=rss-9a24cc840494------2)
 - [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-9a24cc840494------2)
 - [Data Cleaning with Python](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45?source=rss-9a24cc840494------2)
