@@ -27,6 +27,7 @@
 	
 - 📚 Books I'm reading
 
+	- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 	- [An Introduction to Statistical Learning: With Applications in R](https://tinyurl.com/yebj9wsb)
 	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 	- [Mathematics for Machine Learning](https://www.tinyurl.com/math4ml)
