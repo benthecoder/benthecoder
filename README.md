@@ -35,6 +35,8 @@
 	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 	- [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
+	- [Tidy Modeling with R](https://www.tmwr.org/)
+	- [R4ds](https://r4ds.had.co.nz/)
 
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
