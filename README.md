@@ -30,11 +30,11 @@
 	- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 	- [ISLR](https://tinyurl.com/yebj9wsb)
 	- [Math for Machine Learning](https://www.tinyurl.com/math4ml)
-	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
-	- [Designing Data-Intensive Applications](https://benthecoder.github.io/Designing-Data-Intensive-Applications/docs/Designing-Data-Intensive-Applications.pdf)
+	- [Designing Data-Intensive Applications](https://tinyurl.com/yee77mtv)
 	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 	- [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
+	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 	- [Tidy Modeling with R](https://www.tmwr.org/)
 	- [R4ds](https://r4ds.had.co.nz/)
 
