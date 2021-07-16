@@ -47,6 +47,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentiment Analysis on Reddit Tech News with Python](https://medium.com/bitgrit-data-science-publication/sentiment-analysis-on-reddit-tech-news-with-python-cbaddb8e9bb6?source=rss-9a24cc840494------2)
 - [20+ Must-Subscribe Data and AI Newsletters in 2021](https://towardsdatascience.com/20-must-subscribe-data-and-ai-newsletters-in-2021-7c5ddb9b3c19?source=rss-9a24cc840494------2)
 - [Scraping 100+ Free Data Science Books with Python](https://medium.com/bitgrit-data-science-publication/scraping-100-free-data-science-books-with-python-5b5c515033a7?source=rss-9a24cc840494------2)
 - [Why is Data Engineering popular now?](https://medium.com/bitgrit-data-science-publication/why-is-data-engineering-popular-now-4e41b9f80cf4?source=rss-9a24cc840494------2)
@@ -56,7 +57,6 @@
 - [Data Cleaning with Python](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45?source=rss-9a24cc840494------2)
 - [All my articles in one place](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d?source=rss-9a24cc840494------2)
 - [Building an Image Classification model with PyTorch from scratch](https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212?source=rss-9a24cc840494------2)
-- [Top 5 Machine Learning Algorithms Explained](https://medium.com/bitgrit-data-science-publication/top-5-machine-learning-algorithms-explained-d15234b627f7?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
