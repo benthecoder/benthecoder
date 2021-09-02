@@ -47,6 +47,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Train, Visualize and Inspect Computer Vision Models on a no-code MLOps platform](https://towardsdatascience.com/train-visualize-and-inspect-computer-vision-models-on-a-no-code-mlops-platform-6e26ea9c6fef?source=rss-9a24cc840494------2)
 - [Making Machine Learning Models Interpretable](https://medium.com/bitgrit-data-science-publication/making-machine-learning-models-interpretable-3f9efcf64a9?source=rss-9a24cc840494------2)
 - [5 Applications of Artificial Intelligence in Business](https://medium.com/bitgrit-data-science-publication/5-applications-of-artificial-intelligence-in-business-722a0bde4832?source=rss-9a24cc840494------2)
 - [Build a News Article Summarizer App with Hugging Face  and Gradio](https://medium.com/bitgrit-data-science-publication/build-a-news-article-summarizer-app-with-hugging-face-and-gradio-99d173428204?source=rss-9a24cc840494------2)
@@ -56,7 +57,6 @@
 - [Why is Data Engineering popular now?](https://medium.com/bitgrit-data-science-publication/why-is-data-engineering-popular-now-4e41b9f80cf4?source=rss-9a24cc840494------2)
 - [Using Data Science to Predict Viral Tweets](https://towardsdatascience.com/using-data-science-to-predict-viral-tweets-615b0acc2e1e?source=rss-9a24cc840494------2)
 - [5 Computer Vision Trends for 2021](https://medium.com/bitgrit-data-science-publication/5-computer-vision-trends-for-2021-96fd18d5596c?source=rss-9a24cc840494------2)
-- [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
