@@ -47,7 +47,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Train, Visualize and Inspect Computer Vision Models on a no-code MLOps platform](https://towardsdatascience.com/train-visualize-and-inspect-computer-vision-models-on-a-no-code-mlops-platform-6e26ea9c6fef?source=rss-9a24cc840494------2)
+- [Train, Visualize and Inspect Computer Vision Models with no code](https://towardsdatascience.com/train-visualize-and-inspect-computer-vision-models-on-a-no-code-mlops-platform-6e26ea9c6fef?source=rss-9a24cc840494------2)
 - [Making Machine Learning Models Interpretable](https://medium.com/bitgrit-data-science-publication/making-machine-learning-models-interpretable-3f9efcf64a9?source=rss-9a24cc840494------2)
 - [5 Applications of Artificial Intelligence in Business](https://medium.com/bitgrit-data-science-publication/5-applications-of-artificial-intelligence-in-business-722a0bde4832?source=rss-9a24cc840494------2)
 - [Build a News Article Summarizer App with Hugging Face  and Gradio](https://medium.com/bitgrit-data-science-publication/build-a-news-article-summarizer-app-with-hugging-face-and-gradio-99d173428204?source=rss-9a24cc840494------2)
