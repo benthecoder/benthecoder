@@ -19,12 +19,7 @@
 
 - 🌱 I'm currently learning Statistics and Machine Learning.
 
-- 💻 Courses I'm currently taking on Coursera 
-
-	- [Data Science Specialization by John Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
-	- [Statistics with R Specialization by Duke University](https://www.coursera.org/specializations/statistics)
-	- [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
-	
+<!--
 - 📚 Books I'm currently reading 
 
 	- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
@@ -37,11 +32,10 @@
 	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 	- [Tidy Modeling with R](https://www.tmwr.org/)
 	- [R4ds](https://r4ds.had.co.nz/)
-
+-->
 - 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
 
 - 📝 I regularly write articles on [Medium](https://benedictxneo.medium.com/)
-
 
 
 ## Latest Blog Posts
