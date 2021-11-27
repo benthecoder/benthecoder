@@ -41,6 +41,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A/B Testing, explained](https://medium.com/bitgrit-data-science-publication/a-b-testing-explained-1e61a2d1670e?source=rss-9a24cc840494------2)
 - [The Only Web Scraping Tool you need for Data Science](https://medium.com/nerd-for-tech/the-only-web-scraping-tool-you-need-for-data-science-f388e2afa187?source=rss-9a24cc840494------2)
 - [Visualize your LinkedIn Network with Python](https://medium.com/bitgrit-data-science-publication/visualize-your-linkedin-network-with-python-59a213786c4?source=rss-9a24cc840494------2)
 - [5 Roles in Data in 2021](https://medium.com/bitgrit-data-science-publication/5-roles-in-data-in-2021-7d9bc0a3083e?source=rss-9a24cc840494------2)
@@ -50,7 +51,6 @@
 - [5 Applications of Artificial Intelligence in Business](https://medium.com/bitgrit-data-science-publication/5-applications-of-artificial-intelligence-in-business-722a0bde4832?source=rss-9a24cc840494------2)
 - [Build a News Article Summarizer App with Hugging Face  and Gradio](https://medium.com/bitgrit-data-science-publication/build-a-news-article-summarizer-app-with-hugging-face-and-gradio-99d173428204?source=rss-9a24cc840494------2)
 - [Sentiment Analysis on Reddit Tech News with Python](https://medium.com/bitgrit-data-science-publication/sentiment-analysis-on-reddit-tech-news-with-python-cbaddb8e9bb6?source=rss-9a24cc840494------2)
-- [20+ Must-Subscribe Data and AI Newsletters in 2021](https://towardsdatascience.com/20-must-subscribe-data-and-ai-newsletters-in-2021-7c5ddb9b3c19?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
