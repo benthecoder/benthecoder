@@ -1,23 +1,21 @@
-<h1 align="center">Benedict Neo</h1>
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://benedictxneo.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<!--   <a href="https://dev.to/benthecoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://hackernoon.com/u/benthecoder"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a> -->
+  <a href="https://dev.to/benthecoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="https://hackernoon.com/u/benthecoder"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
   <a href="https://twitter.com/benthecoder1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://rpubs.com/benthecoder"><img src="https://img.shields.io/badge/rpubs-3687C7?style=for-the-badge&logo=R&logoColor=white" /></a>
   <a href="https://www.kaggle.com/benthecoder"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:benthecoder07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</p> -->
 
-<p align="center"> 
-	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
-</p>
 
-### I'm passionate Statistics undergrad student at Iowa State University self-learning Python and R. I love reading and writing blog posts about Data Science and AI.
+<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
 
-- 🌱 I'm currently learning Statistics and Machine Learning.
+![](https://github.com/benthecoder/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/benthecoder/github-stats/blob/master/generated/languages.svg)
+
+<!-- source: https://github.com/jstrieb/github-stats -->
 
 <!--
 - 📚 Books I'm currently reading 
@@ -33,9 +31,6 @@
 	- [Tidy Modeling with R](https://www.tmwr.org/)
 	- [R4ds](https://r4ds.had.co.nz/)
 -->
-- 👨‍💻 Check out my [personal website](https://benthecoder.github.io/) & [portfolio page](https://benedictxneo.rbind.io)
-
-- 📝 I regularly write articles on [Medium](https://benedictxneo.medium.com/)
 
 
 ## Latest Blog Posts
@@ -56,7 +51,7 @@
 ↳ [more articles...](https://benedictxneo.medium.com/)
 
 
-## Languages and Tools
+<!-- ## Languages and Tools
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -79,9 +74,9 @@
     <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-4d8dc9.svg?logo=RStudio&logoColor=white"></a>
 </p>
 
+ -->
 
-
-## Stats
+<!-- ## Stats
 
 <details>	
   <summary><b>Github Stats</b></summary>
@@ -109,7 +104,7 @@
 	    <br />
 	</ul>	
 </details>
-
+ -->
 <!--
 
 Source: https://github.com/iampavangandhi/iampavangandhi/blob/master/README.md
