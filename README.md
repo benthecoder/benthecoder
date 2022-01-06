@@ -36,6 +36,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Machine Learning Frameworks used by Data Scientists](https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95?source=rss-9a24cc840494------2)
 - [Top Data Science Articles for 2021](https://medium.com/bitgrit-data-science-publication/top-data-science-articles-for-2021-43a67e885ff7?source=rss-9a24cc840494------2)
 - [LitCoin NLP Challenge by NCATS &amp; NASA](https://towardsdatascience.com/litcoin-nlp-challenge-by-ncats-nasa-48eaf8578ed1?source=rss-9a24cc840494------2)
 - [A/B Testing, explained](https://medium.com/bitgrit-data-science-publication/a-b-testing-explained-1e61a2d1670e?source=rss-9a24cc840494------2)
@@ -45,7 +46,6 @@
 - [Federated Learning — Decentralized ML](https://medium.com/bitgrit-data-science-publication/federated-learning-decentralized-ml-8709acfa9fa2?source=rss-9a24cc840494------2)
 - [Train, Visualize and Inspect Computer Vision Models with no code](https://towardsdatascience.com/train-visualize-and-inspect-computer-vision-models-on-a-no-code-mlops-platform-6e26ea9c6fef?source=rss-9a24cc840494------2)
 - [Making Machine Learning Models Interpretable](https://medium.com/bitgrit-data-science-publication/making-machine-learning-models-interpretable-3f9efcf64a9?source=rss-9a24cc840494------2)
-- [5 Applications of Artificial Intelligence in Business](https://medium.com/bitgrit-data-science-publication/5-applications-of-artificial-intelligence-in-business-722a0bde4832?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
