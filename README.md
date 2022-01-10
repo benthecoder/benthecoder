@@ -12,8 +12,8 @@
 
 <img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
 
-![](https://github.com/benthecoder/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/benthecoder/github-stats/blob/master/generated/languages.svg)
+![github stats overview](https://github.com/benthecoder/github-stats/blob/master/generated/overview.svg)
+![github stats languages](https://github.com/benthecoder/github-stats/blob/master/generated/languages.svg)
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
