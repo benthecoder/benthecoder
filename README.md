@@ -9,6 +9,16 @@
   <a href="mailto:benthecoder07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> -->
 
+## Benedict Neo 
+
+Currently a statistics senior at Iowa State University
+
+[View my resume](https://benthecoder.github.io/resume/Benedict_Neo_Resume.pdf)
+
+[![twitter](https://img.shields.io/badge/-@benthecoder1-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/benthecoder1)  
+[![linkedin](https://img.shields.io/badge/-@benedictneo-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/benedictneo/)  
+[![discord](https://img.shields.io/badge/-@benn%232789-161616?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&color=161616)](https://github.com/benthecoder)
+
 
 <img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
 
@@ -16,6 +26,9 @@
 ![github stats languages](https://github.com/benthecoder/github-stats/blob/master/generated/languages.svg)
 
 <!-- source: https://github.com/jstrieb/github-stats -->
+
+
+
 
 <!--
 - 📚 Books I'm currently reading 
