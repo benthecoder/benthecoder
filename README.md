@@ -49,7 +49,7 @@ Currently a statistics senior at Iowa State University
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Library in your Machine Learning Workflow](https://benedictxneo.medium.com/the-missing-library-in-your-machine-learning-workflow-455745f0e66b?source=rss-9a24cc840494------2)
+- [The Missing Library in your Machine Learning Workflow](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b?source=rss-9a24cc840494------2)
 - [Top Machine Learning Frameworks used by Data Scientists](https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95?source=rss-9a24cc840494------2)
 - [Top Data Science Articles for 2021](https://medium.com/bitgrit-data-science-publication/top-data-science-articles-for-2021-43a67e885ff7?source=rss-9a24cc840494------2)
 - [LitCoin NLP Challenge by NCATS &amp; NASA](https://towardsdatascience.com/litcoin-nlp-challenge-by-ncats-nasa-48eaf8578ed1?source=rss-9a24cc840494------2)
