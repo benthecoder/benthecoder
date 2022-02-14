@@ -29,7 +29,7 @@ Stats student at Iowa State University
 
 
 
-- 📚 Books I want to read for 2022 
+## 📚 Books I want to read for 2022 
 
 - [ISLR](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
@@ -62,6 +62,8 @@ Stats student at Iowa State University
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benthecoder)
 
 
 <!-- ## Languages and Tools
