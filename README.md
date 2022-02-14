@@ -11,7 +11,7 @@
 
 ## Benedict Neo 
 
-Currently a statistics senior at Iowa State University
+Stats student at Iowa State University
 
 [View my resume](https://benthecoder.github.io/resume/Benedict_Neo_Resume.pdf)
 
@@ -29,21 +29,21 @@ Currently a statistics senior at Iowa State University
 
 
 
+- 📚 Books I want to read for 2022 
 
-<!--
-- 📚 Books I'm currently reading 
+- [ISLR](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
+- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
+- [Designing Data-Intensive Applications](https://tinyurl.com/yee77mtv)
 
-	- [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
-	- [ISLR](https://tinyurl.com/yebj9wsb)
-	- [Math for Machine Learning](https://www.tinyurl.com/math4ml)
-	- [Designing Data-Intensive Applications](https://tinyurl.com/yee77mtv)
-	- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
-	- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-	- [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
-	- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
-	- [Tidy Modeling with R](https://www.tmwr.org/)
-	- [R4ds](https://r4ds.had.co.nz/)
--->
+<!-- 
+- [Math for Machine Learning](https://www.tinyurl.com/math4ml)
+- [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Tidy Modeling with R](https://www.tmwr.org/)
+- [R4ds](https://r4ds.had.co.nz/) -->
+
 
 
 ## Latest Blog Posts
