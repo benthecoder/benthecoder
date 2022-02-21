@@ -11,7 +11,7 @@
 
 ## Benedict Neo 
 
-Stats student at Iowa State University
+Statistics & CS at Iowa State University
 
 [View my resume](https://benthecoder.github.io/resume/Benedict_Neo_Resume.pdf)
 
