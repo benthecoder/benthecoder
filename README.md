@@ -17,7 +17,7 @@ Statistics & CS at Iowa State University
 
 [![twitter](https://img.shields.io/badge/-@benthecoder1-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/benthecoder1)  
 [![linkedin](https://img.shields.io/badge/-@benedictneo-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/benedictneo/)  
-[![discord](https://img.shields.io/badge/-@benedict%235927-161616?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&color=161616)](https://github.com/benthecoder)
+[![discord](https://img.shields.io/badge/-@ben.%235927-161616?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&color=161616)](https://github.com/benthecoder)
 
 
 <img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
