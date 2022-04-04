@@ -61,7 +61,7 @@ Statistics & CS at Iowa State University
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benthecoder)
+<a href="https://ko-fi.com/benthecoder"><img width="200rem" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-1080.png"/></a>
 
 
 <!-- ## Languages and Tools
