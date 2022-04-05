@@ -27,6 +27,7 @@ Statistics & CS at Iowa State University
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
+<!-- 
 ## 📚 Books I want to read for 2022 
 
 - [ISLR](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
@@ -34,8 +35,6 @@ Statistics & CS at Iowa State University
 - [Data Science for Business](https://book.akij.net/eBooks/2018/May/5aef50939a868/Data_Science_for_Bus.pdf)
 - [100 page ml](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 - [Designing Data-Intensive Applications](https://tinyurl.com/yee77mtv)
-
-<!-- 
 - [Math for Machine Learning](https://www.tinyurl.com/math4ml)
 - [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
