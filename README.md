@@ -46,6 +46,7 @@ Statistics & CS at Iowa State University
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [40 Useful Pandas Snippets](https://medium.com/bitgrit-data-science-publication/40-useful-pandas-snippets-d7833472d12f?source=rss-9a24cc840494------2)
 - [Predicting Rain with Machine Learning](https://towardsdatascience.com/predicting-rain-with-machine-learning-2acf80017c44?source=rss-9a24cc840494------2)
 - [10 Tips to Improve Your Regression Modeling](https://medium.com/bitgrit-data-science-publication/10-tips-to-improve-your-regression-modeling-f1af297c505a?source=rss-9a24cc840494------2)
 - [Data Analysis in 10 Easy Steps](https://medium.com/bitgrit-data-science-publication/data-analysis-in-10-easy-steps-f9fc62a29082?source=rss-9a24cc840494------2)
@@ -55,7 +56,6 @@ Statistics & CS at Iowa State University
 - [LitCoin NLP Challenge by NCATS &amp; NASA](https://towardsdatascience.com/litcoin-nlp-challenge-by-ncats-nasa-48eaf8578ed1?source=rss-9a24cc840494------2)
 - [A/B Testing, explained](https://medium.com/bitgrit-data-science-publication/a-b-testing-explained-1e61a2d1670e?source=rss-9a24cc840494------2)
 - [The Only Web Scraping Tool you need for Data Science](https://medium.com/nerd-for-tech/the-only-web-scraping-tool-you-need-for-data-science-f388e2afa187?source=rss-9a24cc840494------2)
-- [Visualize your LinkedIn Network with Python](https://medium.com/bitgrit-data-science-publication/visualize-your-linkedin-network-with-python-59a213786c4?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
