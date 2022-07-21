@@ -46,6 +46,7 @@ Statistics & CS at Iowa State University
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NLP in Academia vs The Real World](https://medium.com/bitgrit-data-science-publication/nlp-in-academia-vs-the-real-world-9dee491bea38?source=rss-9a24cc840494------2)
 - [Bird Species Classification with Machine Learning](https://towardsdatascience.com/bird-species-classification-with-machine-learning-914cbc0590b?source=rss-9a24cc840494------2)
 - [My road to 1.5 Million views on Medium](https://medium.com/nerd-for-tech/my-road-to-1-5-million-views-on-medium-b9c87d77534b?source=rss-9a24cc840494------2)
 - [Web Scraping With Just One Click](https://medium.com/geekculture/web-scraping-with-just-one-click-218f76d81fde?source=rss-9a24cc840494------2)
@@ -55,7 +56,6 @@ Statistics & CS at Iowa State University
 - [Data Analysis in 10 Easy Steps](https://medium.com/bitgrit-data-science-publication/data-analysis-in-10-easy-steps-f9fc62a29082?source=rss-9a24cc840494------2)
 - [The Missing Library in your Machine Learning Workflow](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b?source=rss-9a24cc840494------2)
 - [Top Machine Learning Frameworks used by Data Scientists](https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95?source=rss-9a24cc840494------2)
-- [Top Data Science Articles for 2021](https://medium.com/bitgrit-data-science-publication/top-data-science-articles-for-2021-43a67e885ff7?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
