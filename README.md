@@ -46,6 +46,7 @@ Statistics & CS at Iowa State University
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Engineering 101](https://medium.com/bitgrit-data-science-publication/feature-engineering-101-1360af860389?source=rss-9a24cc840494------2)
 - [NLP in Academia vs The Real World](https://medium.com/bitgrit-data-science-publication/nlp-in-academia-vs-the-real-world-9dee491bea38?source=rss-9a24cc840494------2)
 - [Bird Species Classification with Machine Learning](https://towardsdatascience.com/bird-species-classification-with-machine-learning-914cbc0590b?source=rss-9a24cc840494------2)
 - [My road to 1.5 Million views on Medium](https://medium.com/nerd-for-tech/my-road-to-1-5-million-views-on-medium-b9c87d77534b?source=rss-9a24cc840494------2)
@@ -55,7 +56,6 @@ Statistics & CS at Iowa State University
 - [10 Tips to Improve Your Regression Modeling](https://medium.com/bitgrit-data-science-publication/10-tips-to-improve-your-regression-modeling-f1af297c505a?source=rss-9a24cc840494------2)
 - [Data Analysis in 10 Easy Steps](https://medium.com/bitgrit-data-science-publication/data-analysis-in-10-easy-steps-f9fc62a29082?source=rss-9a24cc840494------2)
 - [The Missing Library in your Machine Learning Workflow](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b?source=rss-9a24cc840494------2)
-- [Top Machine Learning Frameworks used by Data Scientists](https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
