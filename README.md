@@ -6,12 +6,14 @@
 	<br>
 	<br>
 	<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" />
+	<br>
+	<img src="https://github.com/benthecoder/stats/blob/generated/overview-dark.svg"/>
+	<br>
+	<img src="https://github.com/benthecoder/stats/blob/generated/languages-dark.svg"/>
 </p>
 
 ---
 <!-- 
-![github stats overview](https://github.com/benthecoder/stats/blob/generated/overview-dark.svg)
-![github stats languages](https://github.com/benthecoder/stats/blob/generated/languages-dark.svg)
  -->
 <!--  source: https://github.com/jstrieb/github-stats  -->
 
