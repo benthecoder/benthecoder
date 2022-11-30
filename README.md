@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [22 Essential Data Science Interview Questions You Need to Know](https://medium.com/bitgrit-data-science-publication/22-essential-data-science-interview-questions-you-need-to-know-258789aa4e64?source=rss-9a24cc840494------2)
 - [Get Continent Names from Coordinates Using Python](https://medium.com/bitgrit-data-science-publication/get-continent-names-from-coordinates-using-python-8560cdcfdfbb?source=rss-9a24cc840494------2)
 - [NLP snippets in Python](https://medium.com/bitgrit-data-science-publication/nlp-snippets-in-python-90ac29ffaea0?source=rss-9a24cc840494------2)
 - [The Missing Feature on LinkedIn](https://medium.com/bitgrit-data-science-publication/the-missing-feature-on-linkedin-160682a8ccc1?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [Bird Species Classification with Machine Learning](https://towardsdatascience.com/bird-species-classification-with-machine-learning-914cbc0590b?source=rss-9a24cc840494------2)
 - [My road to 1.5 Million views on Medium](https://medium.com/nerd-for-tech/my-road-to-1-5-million-views-on-medium-b9c87d77534b?source=rss-9a24cc840494------2)
 - [Web Scraping With Just One Click](https://medium.com/geekculture/web-scraping-with-just-one-click-218f76d81fde?source=rss-9a24cc840494------2)
-- [40 Useful Pandas Snippets](https://medium.com/bitgrit-data-science-publication/40-useful-pandas-snippets-d7833472d12f?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
