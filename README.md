@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [latexify: Writing LaTeX with Python](https://medium.com/bitgrit-data-science-publication/latexify-writing-latex-with-python-6c0fa4b2e9d5?source=rss-9a24cc840494------2)
 - [BookNLP: Analyze Your Favorite Books with NLP](https://medium.com/bitgrit-data-science-publication/booknlp-analyze-your-favorite-books-with-nlp-606367aa0930?source=rss-9a24cc840494------2)
 - [22 Essential Data Science Interview Questions You Need to Know](https://medium.com/bitgrit-data-science-publication/22-essential-data-science-interview-questions-you-need-to-know-258789aa4e64?source=rss-9a24cc840494------2)
 - [Get Continent Names from Coordinates Using Python](https://medium.com/bitgrit-data-science-publication/get-continent-names-from-coordinates-using-python-8560cdcfdfbb?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [Feature Engineering 101](https://medium.com/bitgrit-data-science-publication/feature-engineering-101-1360af860389?source=rss-9a24cc840494------2)
 - [NLP in Academia vs The Real World](https://medium.com/bitgrit-data-science-publication/nlp-in-academia-vs-the-real-world-9dee491bea38?source=rss-9a24cc840494------2)
 - [Bird Species Classification with Machine Learning](https://towardsdatascience.com/bird-species-classification-with-machine-learning-914cbc0590b?source=rss-9a24cc840494------2)
-- [My road to 1.5 Million views on Medium](https://medium.com/nerd-for-tech/my-road-to-1-5-million-views-on-medium-b9c87d77534b?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
