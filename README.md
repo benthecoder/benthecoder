@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Libraries for Machine Learning You Should Try Out](https://medium.com/bitgrit-data-science-publication/10-python-libraries-for-machine-learning-you-should-try-out-f24cca774def?source=rss-9a24cc840494------2)
 - [2022 in Review](https://benedictxneo.medium.com/2022-in-review-d658c9a5be49?source=rss-9a24cc840494------2)
 - [latexify: Writing LaTeX with Python](https://medium.com/bitgrit-data-science-publication/latexify-writing-latex-with-python-6c0fa4b2e9d5?source=rss-9a24cc840494------2)
 - [BookNLP: Analyze Your Favorite Books with NLP](https://medium.com/bitgrit-data-science-publication/booknlp-analyze-your-favorite-books-with-nlp-606367aa0930?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [The Missing Feature on LinkedIn](https://medium.com/bitgrit-data-science-publication/the-missing-feature-on-linkedin-160682a8ccc1?source=rss-9a24cc840494------2)
 - [Python F-strings Tricks You Should Know](https://medium.com/bitgrit-data-science-publication/python-f-strings-tricks-you-should-know-7ce094a25d43?source=rss-9a24cc840494------2)
 - [Feature Engineering 101](https://medium.com/bitgrit-data-science-publication/feature-engineering-101-1360af860389?source=rss-9a24cc840494------2)
-- [NLP in Academia vs The Real World](https://medium.com/bitgrit-data-science-publication/nlp-in-academia-vs-the-real-world-9dee491bea38?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
