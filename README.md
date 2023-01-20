@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 8 Most Important Statistical Ideas of the Past 50 Years](https://medium.com/bitgrit-data-science-publication/the-8-most-important-statistical-ideas-of-the-past-50-years-11220e46736f?source=rss-9a24cc840494------2)
 - [Create Beautiful Graphs with Python](https://medium.com/geekculture/create-beautiful-graphs-with-python-4235f50b2adb?source=rss-9a24cc840494------2)
 - [Detecting AI-Generated Text](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730?source=rss-9a24cc840494------2)
 - [10 Python Libraries for Machine Learning You Should Try Out](https://medium.com/bitgrit-data-science-publication/10-python-libraries-for-machine-learning-you-should-try-out-f24cca774def?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [22 Essential Data Science Interview Questions You Need to Know](https://medium.com/bitgrit-data-science-publication/22-essential-data-science-interview-questions-you-need-to-know-258789aa4e64?source=rss-9a24cc840494------2)
 - [Get Continent Names from Coordinates Using Python](https://medium.com/bitgrit-data-science-publication/get-continent-names-from-coordinates-using-python-8560cdcfdfbb?source=rss-9a24cc840494------2)
 - [NLP snippets in Python](https://medium.com/bitgrit-data-science-publication/nlp-snippets-in-python-90ac29ffaea0?source=rss-9a24cc840494------2)
-- [The Missing Feature on LinkedIn](https://medium.com/bitgrit-data-science-publication/the-missing-feature-on-linkedin-160682a8ccc1?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
