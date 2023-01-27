@@ -35,6 +35,8 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Collections Module: Essential Tools for Efficient Coding](https://betterprogramming.pub/python-collections-module-essential-tools-for-efficient-coding-436d420a6f8a?source=rss-9a24cc840494------2)
+- [Predicting NFT Prices with Data Science](https://medium.datadriveninvestor.com/predicting-nft-prices-with-data-science-1d510b85804b?source=rss-9a24cc840494------2)
 - [The 8 Most Important Statistical Ideas of the Past 50 Years](https://medium.com/bitgrit-data-science-publication/the-8-most-important-statistical-ideas-of-the-past-50-years-11220e46736f?source=rss-9a24cc840494------2)
 - [Create Beautiful Graphs with Python](https://medium.com/geekculture/create-beautiful-graphs-with-python-4235f50b2adb?source=rss-9a24cc840494------2)
 - [Detecting AI-Generated Text](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730?source=rss-9a24cc840494------2)
@@ -43,8 +45,6 @@
 - [latexify: Writing LaTeX with Python](https://medium.com/bitgrit-data-science-publication/latexify-writing-latex-with-python-6c0fa4b2e9d5?source=rss-9a24cc840494------2)
 - [BookNLP: Analyze Your Favorite Books with NLP](https://medium.com/bitgrit-data-science-publication/booknlp-analyze-your-favorite-books-with-nlp-606367aa0930?source=rss-9a24cc840494------2)
 - [22 Essential Data Science Interview Questions You Need to Know](https://medium.com/bitgrit-data-science-publication/22-essential-data-science-interview-questions-you-need-to-know-258789aa4e64?source=rss-9a24cc840494------2)
-- [Get Continent Names from Coordinates Using Python](https://medium.com/bitgrit-data-science-publication/get-continent-names-from-coordinates-using-python-8560cdcfdfbb?source=rss-9a24cc840494------2)
-- [NLP snippets in Python](https://medium.com/bitgrit-data-science-publication/nlp-snippets-in-python-90ac29ffaea0?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
