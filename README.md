@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Name Things: The Hardest Problem in Programming](https://medium.com/geekculture/how-to-name-things-the-hardest-problem-in-programming-25cd8b37c056?source=rss-9a24cc840494------2)
 - [Books Recommended by Computer Scientists](https://medium.com/bitgrit-data-science-publication/books-recommended-by-computer-scientists-89d72f206455?source=rss-9a24cc840494------2)
 - [10 Chrome Extensions to 10x Your Productivity](https://medium.com/swlh/10-chrome-extensions-to-10x-your-productivity-859919d185cf?source=rss-9a24cc840494------2)
 - [Top 10 AI Startups to Watch for 2023](https://medium.com/bitgrit-data-science-publication/top-10-ai-startups-to-watch-for-2023-b72226a655f0?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [Create Beautiful Graphs with Python](https://medium.com/geekculture/create-beautiful-graphs-with-python-4235f50b2adb?source=rss-9a24cc840494------2)
 - [Detecting AI-Generated Text](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730?source=rss-9a24cc840494------2)
 - [10 Python Libraries for Machine Learning You Should Try Out](https://medium.com/bitgrit-data-science-publication/10-python-libraries-for-machine-learning-you-should-try-out-f24cca774def?source=rss-9a24cc840494------2)
-- [2022 in Review](https://benedictxneo.medium.com/2022-in-review-d658c9a5be49?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
