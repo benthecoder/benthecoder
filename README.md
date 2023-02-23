@@ -35,6 +35,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways to Time Python Functions](https://medium.com/bitgrit-data-science-publication/4-ways-to-time-python-functions-bb2e4fbe4121?source=rss-9a24cc840494------2)
 - [How to Name Things: The Hardest Problem in Programming](https://medium.com/geekculture/how-to-name-things-the-hardest-problem-in-programming-25cd8b37c056?source=rss-9a24cc840494------2)
 - [Books Recommended by Computer Scientists](https://medium.com/bitgrit-data-science-publication/books-recommended-by-computer-scientists-89d72f206455?source=rss-9a24cc840494------2)
 - [10 Chrome Extensions to 10x Your Productivity](https://medium.com/swlh/10-chrome-extensions-to-10x-your-productivity-859919d185cf?source=rss-9a24cc840494------2)
@@ -44,7 +45,6 @@
 - [The 8 Most Important Statistical Ideas of the Past 50 Years](https://medium.com/bitgrit-data-science-publication/the-8-most-important-statistical-ideas-of-the-past-50-years-11220e46736f?source=rss-9a24cc840494------2)
 - [Create Beautiful Graphs with Python](https://medium.com/geekculture/create-beautiful-graphs-with-python-4235f50b2adb?source=rss-9a24cc840494------2)
 - [Detecting AI-Generated Text](https://medium.com/swlh/detecting-ai-generated-text-b56b3e8ca730?source=rss-9a24cc840494------2)
-- [10 Python Libraries for Machine Learning You Should Try Out](https://medium.com/bitgrit-data-science-publication/10-python-libraries-for-machine-learning-you-should-try-out-f24cca774def?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://benedictxneo.medium.com/)
