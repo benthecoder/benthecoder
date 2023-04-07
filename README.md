@@ -12,8 +12,6 @@
 	<img src="https://github.com/benthecoder/stats/blob/generated/languages-dark.svg"/> -->
 </p>
 
----
-
 <!-- 
 ## 📚 Books I want to read for 2022 
 
@@ -28,14 +26,11 @@
 - [Tidy Modeling with R](https://www.tmwr.org/)
 - [R4ds](https://r4ds.had.co.nz/) -->
 
-<!-- 
-## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-↳ [more articles...](https://benedictxneo.medium.com/)
 
 
- -->
+
