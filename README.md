@@ -1,6 +1,6 @@
 <p align="center">
 	<a href=https://www.linkedin.com/in/benedictneo />LinkedIn</a> • 
-	<a href=https://twitter.com/benthecoder1 />Twitter</a> • 
+	<a href=https://twitter.com/benxneo />Twitter</a> • 
 	<a href=https://benedictxneo.medium.com />Blog</a> • 
 	<a href=https://benthecoder.github.io/resume/Benedict_Neo_Resume.pdf />Resume</a>
 	<br>
